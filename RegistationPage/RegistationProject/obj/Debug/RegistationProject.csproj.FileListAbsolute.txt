@@ -1,0 +1,10 @@
+E:\bhanuASP\RegistationPage\RegistationProject\bin\RegistationProject.dll.config
+E:\bhanuASP\RegistationPage\RegistationProject\bin\RegistationProject.dll
+E:\bhanuASP\RegistationPage\RegistationProject\bin\RegistationProject.pdb
+E:\bhanuASP\RegistationPage\RegistationProject\obj\Debug\RegistationProject.csprojResolveAssemblyReference.cache
+E:\bhanuASP\RegistationPage\RegistationProject\obj\Debug\RegistationProject.dll
+E:\bhanuASP\RegistationPage\RegistationProject\obj\Debug\RegistationProject.pdb
+E:\bhanuASP\RegistationPage\RegistationProject\bin\BLL.dll
+E:\bhanuASP\RegistationPage\RegistationProject\bin\DAL1.dll
+E:\bhanuASP\RegistationPage\RegistationProject\bin\BLL.pdb
+E:\bhanuASP\RegistationPage\RegistationProject\bin\DAL1.pdb

@@ -1,0 +1,5 @@
+E:\bhanuASP\RegistationPage\DAL1\bin\Debug\DAL1.dll
+E:\bhanuASP\RegistationPage\DAL1\bin\Debug\DAL1.pdb
+E:\bhanuASP\RegistationPage\DAL1\obj\Debug\DAL1.dll
+E:\bhanuASP\RegistationPage\DAL1\obj\Debug\DAL1.pdb
+E:\bhanuASP\RegistationPage\DAL1\obj\Debug\DAL1.csprojResolveAssemblyReference.cache

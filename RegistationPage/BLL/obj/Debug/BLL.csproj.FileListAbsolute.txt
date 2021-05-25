@@ -1,0 +1,7 @@
+E:\bhanuASP\RegistationPage\BLL\bin\Debug\BLL.dll
+E:\bhanuASP\RegistationPage\BLL\bin\Debug\BLL.pdb
+E:\bhanuASP\RegistationPage\BLL\bin\Debug\DAL1.dll
+E:\bhanuASP\RegistationPage\BLL\bin\Debug\DAL1.pdb
+E:\bhanuASP\RegistationPage\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\bhanuASP\RegistationPage\BLL\obj\Debug\BLL.dll
+E:\bhanuASP\RegistationPage\BLL\obj\Debug\BLL.pdb
